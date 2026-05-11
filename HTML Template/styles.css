@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+    color: white; 
+} /*This changes the background of the body to blue and the colour to white */
+
+a {
+    color: yellow;
+}
+/*The change in background colour makes it hard to see the original hyperlink text, so this changes it to yellow*/
